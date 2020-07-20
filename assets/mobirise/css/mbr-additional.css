@@ -1151,6 +1151,27 @@ section.lazy-placeholder:after {
 .cid-s5iXod56Af .card-title {
   text-align: center;
 }
+.cid-s5jyDaWpRe {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s5jyDaWpRe .title {
+  margin-bottom: 2rem;
+}
+.cid-s5jyDaWpRe .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s5jyDaWpRe a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s5jyDaWpRe a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s5jyDaWpRe textarea.form-control {
+  min-height: 188px;
+}
 .cid-s5jishbQsf {
   padding-top: 90px;
   padding-bottom: 90px;
